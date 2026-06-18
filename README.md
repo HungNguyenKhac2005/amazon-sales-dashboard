@@ -57,17 +57,6 @@ Báo cáo tích hợp các thẻ KPI thông minh hiển thị số liệu thực
 
 ---
 
-## 📂 Các dự án Power BI khác trong kho lưu trữ
-
-Repository này là nơi lưu trữ chuỗi dự án phân tích dữ liệu và thiết kế báo cáo của tác giả. Bên cạnh báo cáo Amazon Sales, bạn có thể tham khảo thêm các sản phẩm khác:
-
-1.  **Logistics & Sales Dashboard** ([Logistics_&_Sales_Dashboard.pbix](file:///C:/BI%20tool/Power%20BI/C%C3%A1c%20DashBoard%20%C4%91%C3%A3%20ho%C3%A0n%20thi%E1%BB%87n/Logistics_&_Sales_Dashboard.pbix) / [Logistics_&_Sales_Dashboard.pdf](file:///C:/BI%20tool/Power%20BI/C%C3%A1c%20DashBoard%20%C4%91%C3%A3%20ho%C3%A0n%20thi%E1%BB%87n/Logistics_&_Sales_Dashboard.pdf)): Báo cáo quản trị doanh số và hiệu suất vận chuyển logistics.
-2.  **Sales Mobile & Computer Dashboards** ([DashBoard_sales_mobile.pbix](file:///C:/BI%20tool/Power%20BI/C%C3%A1c%20DashBoard%20%C4%91%C3%A3%20ho%C3%A0n%20thi%E1%BB%87n/DashBoard_sales_mobile.pbix) / [DashBoard_sales_Computer.pbix](file:///C:/BI%20tool/Power%20BI/C%C3%A1c%20DashBoard%20%C4%91%C3%A3%20ho%C3%A0n%20thi%E1%BB%87n/DashBoard_sales_Computer.pbix)): Báo cáo doanh số chi tiết ngành hàng máy tính và điện thoại.
-3.  **Delivery Dashboard 2** ([Delivery_DashBoard_2.pbix](file:///C:/BI%20tool/Power%20BI/C%C3%A1c%20DashBoard%20%C4%91%C3%A3%20ho%C3%A0n%20thi%E1%BB%87n/Delivery_DashBoard_2.pbix)): Trực quan hóa quy trình giao nhận.
-4.  **Project Data Analyst E-conomus** ([Project data analyst e conomus.pbix](file:///C:/BI%20tool/Power%20BI/C%C3%A1c%20DashBoard%20%C4%91%C3%A3%20ho%C3%A0n%20thi%E1%BB%87n/Project%20data%20analyst%20e%20conomus.pbix)): Phân tích dữ liệu tài chính - kinh tế.
-
----
-
 ## 🚀 Hướng dẫn mở dự án
 
 1.  Cài đặt ứng dụng **Microsoft Power BI Desktop** phiên bản mới nhất.
